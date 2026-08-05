@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
