@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
