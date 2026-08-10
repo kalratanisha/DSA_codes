@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kalratanisha/DSA_codes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
