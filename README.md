@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -51,10 +52,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/kalratanisha/DSA_codes/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/1143-longest-common-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
