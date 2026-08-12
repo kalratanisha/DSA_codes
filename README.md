@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kalratanisha/DSA_codes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
@@ -63,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
+| [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
