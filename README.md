@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kalratanisha/DSA_codes/tree/master/0046-permutations) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kalratanisha/DSA_codes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kalratanisha/DSA_codes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
