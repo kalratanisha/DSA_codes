@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalratanisha/DSA_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalratanisha/DSA_codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0047-permutations-ii) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalratanisha/DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalratanisha/DSA_codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalratanisha/DSA_codes/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
