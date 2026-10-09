@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kalratanisha/DSA_codes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kalratanisha/DSA_codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kalratanisha/DSA_codes/tree/master/0077-combinations) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kalratanisha/DSA_codes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kalratanisha/DSA_codes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
