@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalratanisha/DSA_codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0047-permutations-ii) |
