@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalratanisha/DSA_codes/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalratanisha/DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/kalratanisha/DSA_codes/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalratanisha/DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/kalratanisha/DSA_codes/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalratanisha/DSA_codes/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kalratanisha/DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
