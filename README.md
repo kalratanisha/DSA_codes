@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalratanisha/DSA_codes/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/kalratanisha/DSA_codes/tree/master/0072-edit-distance) |
 | [0435-non-overlapping-intervals](https://github.com/kalratanisha/DSA_codes/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalratanisha/DSA_codes/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalratanisha/DSA_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalratanisha/DSA_codes/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalratanisha/DSA_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kalratanisha/DSA_codes/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/kalratanisha/DSA_codes/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/kalratanisha/DSA_codes/tree/master/0516-longest-palindromic-subsequence) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalratanisha/DSA_codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kalratanisha/DSA_codes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
