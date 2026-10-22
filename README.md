@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/kalratanisha/DSA_codes/tree/master/0127-word-ladder) |
 | [0404-sum-of-left-leaves](https://github.com/kalratanisha/DSA_codes/tree/master/0404-sum-of-left-leaves) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalratanisha/DSA_codes/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalratanisha/DSA_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -135,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalratanisha/DSA_codes/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kalratanisha/DSA_codes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalratanisha/DSA_codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kalratanisha/DSA_codes/tree/master/0404-sum-of-left-leaves) |
